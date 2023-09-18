@@ -1,4 +1,6 @@
-# Implementing in C a hierarchical data structure that represents relationships between various nodes. In this project, I explore the utilization of different tree types within the realm of data structures to efficiently store a French dictionary.
+# Tree
+
+Implementing in C a hierarchical data structure that represents relationships between various nodes. In this project, I explore the utilization of different tree types within the realm of data structures to efficiently store a French dictionary.
 
 The following tree structures have been employed:
 
